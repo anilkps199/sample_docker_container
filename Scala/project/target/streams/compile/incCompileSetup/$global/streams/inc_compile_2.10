@@ -1,0 +1,277 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+21 items
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$1.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$10.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$11.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$2.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$3.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$4.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$5.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$6.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$7.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$8.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$9.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$1.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$2.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$3.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$4.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$5.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$6.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$7.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$8.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$.class
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build.class
+binary dependencies:
+10 items
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /root/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.12.jar
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /root/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.12.jar
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /root/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.12.jar
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /root/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.12.jar
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /root/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.12.jar
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /root/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.12.jar
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /root/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.12.jar
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /root/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.sbt/sbt-native-packager/jars/sbt-native-packager-1.0.2.jar
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /root/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.242.b08-0.el7_7.x86_64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+21 items
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$service$1
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$service$10
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$service$11
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$service$2
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$service$3
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$service$4
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$service$5
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$service$6
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$service$7
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$service$8
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$service$9
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$sharedSettings$1
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$sharedSettings$2
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$sharedSettings$3
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$sharedSettings$4
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$sharedSettings$5
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$sharedSettings$6
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$sharedSettings$7
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build$$anonfun$sharedSettings$8
+used names:
+118 items
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> %
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> %%
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> ++
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> ++=
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> +=
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> :=
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> <byname>
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> <init>
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> <refinement>
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> <repeated>
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> A
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> AddSettings
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Any
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Append
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> B
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Boolean
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Build
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> CanBuildFrom
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> ClasspathDep
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Classpaths
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Coll
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Compile
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> ConfigKey
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Configuration
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Def
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> File
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> FullInstance
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Function0
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> GenTraversableOnce
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> GroupArtifactID
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> GroupID
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Initialize
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> InitializeInstance
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Int
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> JavaAppPackaging
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Keys
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> LinePosition
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> MavenRepository
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> ModuleID
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Nothing
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Object
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Option
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Plugins
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Predef
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Project
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> ProjectReference
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> RepositoryName
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Resolver
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> S
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Seq
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Sequence
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Setting
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> SettingKey
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> SettingsDefinition
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Some
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> SourcePosition
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> String
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> T
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Task
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> TaskKey
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> That
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> U
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> V
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Value
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> Values
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> _$13
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> _$9
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> _1
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> append1
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> appendN
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> appendSeq
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> apply
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> archetypes
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> at
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> canBuildFrom
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> collection
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> com
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> configurationToKey
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> crossScalaVersions
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> defaultSettings
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> dockerBaseImage
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> dockerEntrypoint
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> dockerExposedPorts
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> dockerRepository
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> enablePlugins
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> file
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> fork
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> in
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> javaOptions
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> libraryDependencies
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> mainClass
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> name
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> package
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> packager
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> publishMavenStyle
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> publishTask
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> pure
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> resolvers
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> retrieveManaged
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> sbt
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> scala
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> scalaVersion
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> service
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> set
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> settings
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> sharedSettings
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> toGroupID
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> toRepositoryName
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> typesafe
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> version
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> x$1
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> x$2
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> x$3
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> x$4
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> x$5
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> x$6
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> x$7
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> x$8
+product stamps:
+21 items
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$1.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$10.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$11.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$2.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$3.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$4.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$5.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$6.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$7.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$8.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$service$9.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$1.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$2.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$3.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$4.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$5.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$6.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$7.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$sharedSettings$8.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build$.class -> lastModified(1585057141000)
+/home/centos/testscala/dockerize-scala-app/project/target/scala-2.10/sbt-0.13/classes/Build.class -> lastModified(1585057141000)
+source stamps:
+1 items
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> hash(800273950b6b54247291006f01155fcd3a94f318)
+binary stamps:
+10 items
+/root/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.12.jar -> lastModified(1468641120000)
+/root/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.12.jar -> lastModified(1468641184000)
+/root/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.12.jar -> lastModified(1468641247000)
+/root/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.12.jar -> lastModified(1468641342000)
+/root/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.12.jar -> lastModified(1468641400000)
+/root/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.12.jar -> lastModified(1468641420000)
+/root/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.12.jar -> lastModified(1468641264000)
+/root/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.sbt/sbt-native-packager/jars/sbt-native-packager-1.0.2.jar -> lastModified(1432242972000)
+/root/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.242.b08-0.el7_7.x86_64/jre/lib/rt.jar -> lastModified(1580221862000)
+class names:
+10 items
+/root/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.12.jar -> sbt.appmacro.Instance$
+/root/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.12.jar -> sbt.Init
+/root/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.12.jar -> sbt.Resolver
+/root/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.12.jar -> sbt.ConfigKey$
+/root/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.12.jar -> sbt.Build
+/root/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.12.jar -> sbt.package$
+/root/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.12.jar -> sbt.Task
+/root/.ivy2/cache/scala_2.10/sbt_0.13/com.typesafe.sbt/sbt-native-packager/jars/sbt-native-packager-1.0.2.jar -> com.typesafe.sbt.packager.archetypes.JavaAppPackaging
+/root/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.Predef$
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.242.b08-0.el7_7.x86_64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5W9H2wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwUX23lXQABm5vdGlmeXNxAH4ADAItyEh0AAR3YWl0c3EAfgAMqfIK/XQADnNoYXJlZFNldHRpbmdzc3EAfgAMz3DX+nQADSRhc0luc3RhbmNlT2ZzcQB+AAxQbdV6dAAMYnVpbGRMb2FkZXJzc3EAfgAMDH7amHQABUJ1aWxkc3EAfgAMbuzLDXQABmVxdWFsc3NxAH4ADMYQ9+N0AAxhc0luc3RhbmNlT2ZzcQB+AAzXpniidAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMrFyJa3QADHN5bmNocm9uaXplZHNxAH4ADAgnRWl0AA0kaXNJbnN0YW5jZU9mc3EAfgAMdF5KxHQAB3NlcnZpY2VzcQB+AAwwYZAPdAAJbm90aWZ5QWxsc3EAfgAMjTGqNnQAC3Jvb3RQcm9qZWN0c3EAfgAMI1LZ/HQADGlzSW5zdGFuY2VPZnNxAH4ADCyPYwZ0AAI9PXNxAH4ADGMWXrN0AAVjbG9uZXNxAH4ADL8Ars90AAYkaW5pdCRzcQB+AAxmifuCdAAIdG9TdHJpbmdzcQB+AAx8dF5KdAACIT1zcQB+AAyL0ehQdAAIcHJvamVjdHNzcQB+AAxlWA5rdAAIZ2V0Q2xhc3NzcQB+AAyiiSqSdAACbmVzcQB+AAzkI+OedAACZXFzcQB+AAzv7f+bdAAIc2V0dGluZ3NzcQB+AAyfPjkQdAACIyNzcQB+AAy5kfGudAAIZmluYWxpemVzcQB+AAydk2WVdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ABl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AT0wACWluaGVyaXRlZHEAfgBPTAAHcGFyZW50c3EAfgBPeHEAfgBrc3EAfgBmdXEAfgBKAAAAAHNxAH4AZnVxAH4ASgAAAABzcQB+AGZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGp0AAVCdWlsZHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AanNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADc2J0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIRzcQB+AHd0AAZPYmplY3RzcQB+AHtzcQB+AH51cQB+AIEAAAADc3EAfgCDdAAEamF2YXNxAH4Ag3QABGxhbmdxAH4AiHNxAH4Ad3QAA0FueXNxAH4Ae3NxAH4AfnVxAH4AgQAAAAJzcQB+AIN0AAVzY2FsYXEAfgCIdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXEMxIeodXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAVS9ob21lL2NlbnRvcy90ZXN0c2NhbGEvZG9ja2VyaXplLXNjYWxhLWFwcC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSAAnOVC2tUJHKRAG8BFV/NOpTzGA==
+external apis:
+0 items
+source infos:
+1 items
+/home/centos/testscala/dockerize-scala-app/project/Build.scala -> 
+AAAAAAAAAAIAAAEAAAAJABxvYmplY3QgQnVpbGQgZXh0ZW5kcyBCdWlsZCB7AQAAALoBAAAAFQEAFSAgICAgICAgICAgICAgICAgICAgIAEAPi9ob21lL2NlbnRvcy90ZXN0c2NhbGEvZG9ja2VyaXplLXNjYWxhLWFwcC9wcm9qZWN0L0J1aWxkLnNjYWxhAQA+L2hvbWUvY2VudG9zL3Rlc3RzY2FsYS9kb2NrZXJpemUtc2NhbGEtYXBwL3Byb2plY3QvQnVpbGQuc2NhbGEAQXRyYWl0IEJ1aWxkIGluIHBhY2thZ2Ugc2J0IGlzIGRlcHJlY2F0ZWQ6IFVzZSAuc2J0IGZvcm1hdCBpbnN0ZWFkAQAAAQAAACAAJiAgICBzZXR0aW5ncyA9IFByb2plY3QuZGVmYXVsdFNldHRpbmdzAQAAAtsBAAAAFwEAFyAgICAgICAgICAgICAgICAgICAgICAgAQA+L2hvbWUvY2VudG9zL3Rlc3RzY2FsYS9kb2NrZXJpemUtc2NhbGEtYXBwL3Byb2plY3QvQnVpbGQuc2NhbGEBAD4vaG9tZS9jZW50b3MvdGVzdHNjYWxhL2RvY2tlcml6ZS1zY2FsYS1hcHAvcHJvamVjdC9CdWlsZC5zY2FsYQB8bWV0aG9kIGRlZmF1bHRTZXR0aW5ncyBpbiBvYmplY3QgUHJvamVjdCBpcyBkZXByZWNhdGVkOiBVc2UgRGVmYXVsdHMuY29yZURlZmF1bHRTZXR0aW5ncyBpbnN0ZWFkLCBjb21iaW5lZCB3aXRoIEF1dG9QbHVnaW5zLgE=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcQzEh6h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9ob21lL2NlbnRvcy90ZXN0c2NhbGEvZG9ja2VyaXplLXNjYWxhLWFwcC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv

@@ -1,0 +1,33 @@
+[0m[[0mdebug[0m] [0mExecuting docker build --force-rm -t example/example-service:0.1.0 .[0m
+[0m[[0mdebug[0m] [0mWorking directory /home/centos/testscala/dockerize-scala-app/service/target/docker/stage[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon 22.23 MB[0m
+[0m[[0minfo[0m] [0mStep 1/8 : FROM adoptopenjdk/openjdk8:latest[0m
+[0m[[0minfo[0m] [0m ---> 323e1c880950[0m
+[0m[[0minfo[0m] [0mStep 2/8 : WORKDIR /opt/docker[0m
+[0m[[0minfo[0m] [0m ---> Using cache[0m
+[0m[[0minfo[0m] [0m ---> de32628b7db7[0m
+[0m[[0minfo[0m] [0mStep 3/8 : ADD opt /opt[0m
+[0m[[0minfo[0m] [0m ---> e9d4a42f8d99[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container f1420a2ed80b[0m
+[0m[[0minfo[0m] [0mStep 4/8 : RUN chown -R daemon:daemon .[0m
+[0m[[0minfo[0m] [0m ---> Running in 6db7d6f96904[0m
+[0m[[0minfo[0m] [0m[91m[0m ---> 03a3bf3bc7f1[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 6db7d6f96904[0m
+[0m[[0minfo[0m] [0mStep 5/8 : EXPOSE 8081[0m
+[0m[[0minfo[0m] [0m ---> Running in 71180e648e7e[0m
+[0m[[0minfo[0m] [0m ---> d8168410c38e[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 71180e648e7e[0m
+[0m[[0minfo[0m] [0mStep 6/8 : USER daemon[0m
+[0m[[0minfo[0m] [0m ---> Running in 7a1ebe6c3847[0m
+[0m[[0minfo[0m] [0m ---> 96dcfcf435ab[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 7a1ebe6c3847[0m
+[0m[[0minfo[0m] [0mStep 7/8 : ENTRYPOINT sh -c bin/example-service[0m
+[0m[[0minfo[0m] [0m ---> Running in 54a5b21cb544[0m
+[0m[[0minfo[0m] [0m ---> ef55063e768f[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 54a5b21cb544[0m
+[0m[[0minfo[0m] [0mStep 8/8 : CMD [0m
+[0m[[0minfo[0m] [0m ---> Running in 6295a0d6825a[0m
+[0m[[0minfo[0m] [0m ---> 3406e7f5bf71[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 6295a0d6825a[0m
+[0m[[0minfo[0m] [0mSuccessfully built 3406e7f5bf71[0m
+[0m[[0minfo[0m] [0mBuilt image example/example-service:0.1.0[0m

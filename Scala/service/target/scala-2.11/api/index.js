@@ -1,0 +1,1 @@
+Index.PACKAGES = {"dockerize" : [], "dockerize.service" : [{"object" : "dockerize\/service\/ExampleService$.html", "name" : "dockerize.service.ExampleService"}]};
